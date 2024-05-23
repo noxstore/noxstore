@@ -28,7 +28,7 @@ FiveFox is a key member of our development team, specializing in Vue.js, jQuery,
 ## Get In Touch
 We are always open to feedback, collaboration, and new ideas. Feel free to reach out to us through our GitHub Issues page or contact us directly via email. You can also join our Discord server to connect with us directly.
 
-[🎮 Join Our Discord Server](https://discord.gg/your-discord-link)
+[🎮 Join Our Discord Server](https://discord.gg/nyxstore)
 
 Thank you for your support!
 
