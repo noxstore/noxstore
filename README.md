@@ -17,6 +17,10 @@
   **Role:** Developer  
   **Proficiencies:** Vanilla JS, Node.js, Python  
   **Additional Role:** Discord Developer, available to assist with any Discord-related development and support
+- **Mirage** 💠  
+  **Role:** Developer  
+  **Proficiencies:** HTML, CSS, Vanilla JS, C#, Java  
+  **Additional Skills:** Knowledgeable with Adobe programs and experienced in creating liveries for in-game vehicles
 
 ---
 
@@ -34,6 +38,9 @@ FiveFox is a key member of our development team, specializing in Vue.js, jQuery,
 
 ### Antic
 Antic is a skilled developer with expertise in Vanilla JS, Node.js, and Python. Antic contributes to our projects by leveraging these technologies to build robust back-end services and enhance the functionality of our mods. Additionally, Antic is our Discord Developer, available to assist with any Discord-related development and support.
+
+### Mirage
+Mirage is a versatile developer with skills in HTML, CSS, Vanilla JS, C#, and Java. Mirage is also knowledgeable with Adobe programs and has extensive experience in creating liveries for in-game vehicles, adding an extra layer of detail and customization to our projects.
 
 ## Get In Touch
 We are always open to feedback, collaboration, and new ideas. Feel free to reach out to us through our GitHub Issues page or contact us directly via email. You can also join our Discord server to connect with us directly.
