@@ -1,9 +1,10 @@
 # 🎉 Welcome to Our FiveM Tebex Store! 🎉
 
 ## Owners
-- **NYX** 👨‍💻 
-  **Role:** Head Developer   
-  **Proficiencies:** React.js, Vue.js (2.0, 3.0), jQuery, Vanilla JS, CSS, HTML, TailwindCSS, SASS (SCSS), Next.js, Anime.js, Framer Motion, LUA, SQL
+- **NYX** 👨‍💻  
+  **Role:** Head Developer  
+  **Proficiencies:** React.js, Vue.js (2.0, 3.0), jQuery, Vanilla JS, CSS, HTML, TailwindCSS, SASS (SCSS), Next.js, Anime.js, Framer Motion, LUA, SQL  
+  **Additional Role:** Developer Recruitment and Management
 - **ZenX** 🎨  
   **Role:** Designer  
   **Tools:** Figma, Adobe Applications
@@ -23,7 +24,7 @@
 We are a dedicated team providing high-quality mods and resources for the FiveM community. With extensive knowledge in modern web technologies and design tools, we strive to deliver the best possible experience to our users.
 
 ### NYX
-NYX is our lead developer with extensive experience in modern JavaScript frameworks and libraries. From building dynamic user interfaces with React.js and Vue.js to creating smooth animations with Anime.js and Framer Motion, NYX ensures that our projects are both functional and visually appealing. NYX is also proficient in LUA and SQL.
+NYX is our Head Developer with extensive experience in modern JavaScript frameworks and libraries. From building dynamic user interfaces with React.js and Vue.js to creating smooth animations with Anime.js and Framer Motion, NYX ensures that our projects are both functional and visually appealing. NYX is also proficient in LUA and SQL. In addition to development, NYX manages developer recruitment and oversees the team to maintain high standards.
 
 ### ZenX
 ZenX is our talented designer who brings our ideas to life. Proficient in Figma and Adobe applications, ZenX is responsible for the stunning visuals and user-friendly designs that characterize our work.
