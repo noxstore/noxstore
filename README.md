@@ -1,7 +1,8 @@
 # 🎉 Welcome to Our FiveM Tebex Store! 🎉
 
 ## Owners
-- **NYX** 👨‍💻  
+- **NYX** 👨‍💻 
+  **Role:** Head Developer   
   **Proficiencies:** React.js, Vue.js (2.0, 3.0), jQuery, Vanilla JS, CSS, HTML, TailwindCSS, SASS (SCSS), Next.js, Anime.js, Framer Motion, LUA, SQL
 - **ZenX** 🎨  
   **Role:** Designer  
@@ -9,7 +10,12 @@
 
 ## Developer Team
 - **FiveFox** 🦊  
+  **Role:** Developer  
   **Proficiencies:** Vue.js (2.0, 3.0), jQuery, CSS, HTML, TailwindCSS, SASS (SCSS), Anime.js, LUA, SQL
+- **Antic** 🔧  
+  **Role:** Developer  
+  **Proficiencies:** Vanilla JS, Node.js, Python  
+  **Additional Role:** Discord Developer, available to assist with any Discord-related development and support
 
 ---
 
@@ -24,6 +30,9 @@ ZenX is our talented designer who brings our ideas to life. Proficient in Figma 
 
 ### FiveFox
 FiveFox is a key member of our development team, specializing in Vue.js, jQuery, and CSS frameworks. With a keen eye for detail and a passion for front-end development, FiveFox helps maintain the high standards of our projects. FiveFox is also proficient in LUA and SQL.
+
+### Antic
+Antic is a skilled developer with expertise in Vanilla JS, Node.js, and Python. Antic contributes to our projects by leveraging these technologies to build robust back-end services and enhance the functionality of our mods. Additionally, Antic is our Discord Developer, available to assist with any Discord-related development and support.
 
 ## Get In Touch
 We are always open to feedback, collaboration, and new ideas. Feel free to reach out to us through our GitHub Issues page or contact us directly via email. You can also join our Discord server to connect with us directly.
