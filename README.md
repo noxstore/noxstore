@@ -1,22 +1,26 @@
 # 🎉 Welcome to Our FiveM Tebex Store! 🎉
 
 ## Owners
-- **NYX** 👨‍💻  
+- **NOX** 👨‍💻  
   **Role:** Head Developer  
   **Proficiencies:** React.js, Vue.js (2.0, 3.0), jQuery, Vanilla JS, CSS, HTML, TailwindCSS, SASS (SCSS), Next.js, Anime.js, Framer Motion, LUA, SQL  
   **Additional Role:** Developer Recruitment and Management
+
 - **ZenX** 🎨  
   **Role:** Designer  
   **Tools:** Figma, Adobe Applications
 
 ## Developer Team
+
 - **FiveFox** 🦊  
   **Role:** Developer  
   **Proficiencies:** Vue.js (2.0, 3.0), jQuery, CSS, HTML, TailwindCSS, SASS (SCSS), Anime.js, LUA, SQL
+  
 - **Antic** 🔧  
   **Role:** Developer  
   **Proficiencies:** Vanilla JS, Node.js, Python  
   **Additional Role:** Discord Developer, available to assist with any Discord-related development and support
+  
 - **Mirage** 💠  
   **Role:** Developer  
   **Proficiencies:** HTML, CSS, Vanilla JS, C#, Java  
@@ -27,8 +31,8 @@
 ## About Us
 We are a dedicated team providing high-quality mods and resources for the FiveM community. With extensive knowledge in modern web technologies and design tools, we strive to deliver the best possible experience to our users.
 
-### NYX
-NYX is our Head Developer with extensive experience in modern JavaScript frameworks and libraries. From building dynamic user interfaces with React.js and Vue.js to creating smooth animations with Anime.js and Framer Motion, NYX ensures that our projects are both functional and visually appealing. NYX is also proficient in LUA and SQL. In addition to development, NYX manages developer recruitment and oversees the team to maintain high standards.
+### NOX
+NOX is our Head Developer with extensive experience in modern JavaScript frameworks and libraries. From building dynamic user interfaces with React.js and Vue.js to creating smooth animations with Anime.js and Framer Motion, NOX ensures that our projects are both functional and visually appealing. NOX is also proficient in LUA and SQL. In addition to development, NOX manages developer recruitment and oversees the team to maintain high standards.
 
 ### ZenX
 ZenX is our talented designer who brings our ideas to life. Proficient in Figma and Adobe applications, ZenX is responsible for the stunning visuals and user-friendly designs that characterize our work.
@@ -45,7 +49,7 @@ Mirage is a versatile developer with skills in HTML, CSS, Vanilla JS, C#, and Ja
 ## Get In Touch
 We are always open to feedback, collaboration, and new ideas. Feel free to reach out to us through our GitHub Issues page or contact us directly via email. You can also join our Discord server to connect with us directly.
 
-[🎮 Join Our Discord Server](https://discord.gg/nyxstore)
+[🎮 Join Our Discord Server](https://discord.gg/NOXstore)
 
 Thank you for your support!
 
